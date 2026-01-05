@@ -4,7 +4,7 @@
 Project 1 - Foundational Stage
 
 ## Live Demo
-https://yourusername.github.io/portfolio
+https://kunalgangarde.github.io/Cognitix_Portfolio/
 
 ## Desktop Preview
 ![Desktop](https://via.placeholder.com/1200x400/0f172a/ffffff?text=Personal+Portfolio+-+Desktop+View)

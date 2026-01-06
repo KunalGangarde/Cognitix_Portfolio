@@ -10,7 +10,7 @@ https://kunalgangarde.github.io/Cognitix_Portfolio/
 ![Desktop](https://github.com/KunalGangarde/Cognitix_Portfolio/blob/main/Desktop-Preview.png?raw=true)
 
 ## Mobile Preview  
-![Mobile](https://via.placeholder.com/375x800/0f172a/ffffff?text=Personal+Portfolio+-+Mobile+View)
+![Mobile](https://github.com/KunalGangarde/Cognitix_Portfolio/blob/main/Mobile-Preview.png?raw=true)
 
 ## Features
 - Fully responsive design (mobile/tablet/desktop)

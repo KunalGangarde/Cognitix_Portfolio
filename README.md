@@ -19,14 +19,30 @@ https://kunalgangarde.github.io/Cognitix_Portfolio/
 - Project showcase cards with links
 
 ## Tech Stack
-- HTML5
-- CSS3 (Grid, Flexbox, Custom Animations)
-- Vanilla JavaScript
-
-## Quick Start
-1. Clone repo
-2. Open `index.html` with Live Server in VS Code
-3. Done!
+- HTML
+- CSS
+- JavaScript
+- Python
+- Java
+- SQL
+- React
+- TailwindCSS
+- Angular.js
+- Node.js
+- Express.js
+- Git/Github
+- AI Toolkit
+- Linux
+- MS Office (Word, Excel, Powerpoint)
+- Google Workspace
+- Canva
+- VS code
+- Postgress
+- MYSQL
+- MongoDB
+- Troubleshooting
+- Data Entry
+- Web Research
 
 ## Sections Built
 - About Me

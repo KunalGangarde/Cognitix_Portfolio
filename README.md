@@ -7,7 +7,7 @@ Project 1 - Foundational Stage
 https://kunalgangarde.github.io/Cognitix_Portfolio/
 
 ## Desktop Preview
-![Desktop](https://via.placeholder.com/1200x400/0f172a/ffffff?text=Personal+Portfolio+-+Desktop+View)
+![Desktop](https://github.com/KunalGangarde/Cognitix_Portfolio/blob/main/Desktop-Preview.png?raw=true)
 
 ## Mobile Preview  
 ![Mobile](https://via.placeholder.com/375x800/0f172a/ffffff?text=Personal+Portfolio+-+Mobile+View)
